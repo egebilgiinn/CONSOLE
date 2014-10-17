@@ -1,0 +1,5 @@
+C:\Users\Developer\Documents\GitHub\CONSOLE\CONSOLE\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\GitHub\CONSOLE\CONSOLE\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Developer\Documents\GitHub\CONSOLE\CONSOLE\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Developer\Documents\GitHub\CONSOLE\CONSOLE\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Developer\Documents\GitHub\CONSOLE\CONSOLE\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
